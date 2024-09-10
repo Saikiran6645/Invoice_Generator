@@ -6,7 +6,7 @@ The Invoice Generator is a Node.js-based application that utilizes EJS templates
 
 clone this project 
 ```bash
- git clone 
+ git clone https://github.com/Saikiran6645/Invoice_Generator.git
 ```
 Run this project 
 go to the project backend directory
