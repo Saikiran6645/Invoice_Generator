@@ -1,6 +1,7 @@
 # Invoice_Generator
-## Run locally
 The Invoice Generator is a Node.js-based application that utilizes EJS templates to create, manage, and generate professional invoices. It uses a server-side approach, leveraging Node.js for backend processing and EJS for rendering dynamic invoice templates.
+## Run locally
+
 
 
 clone this project 
